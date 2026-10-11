@@ -1,5 +1,9 @@
 # Picard
 
+## Links
+- [Website](https://picard-rs.github.io/picard/)
+- [Demo](https://picard-rs.github.io/picard/demo/)
+
 ### Actor-based concurrency for Rust. Continuing what Riker started.
 
 Welcome to **Picard**, a community-driven effort to maintain, modernize, and advance actor-based programming in Rust.
